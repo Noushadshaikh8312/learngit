@@ -4,7 +4,7 @@ package com.example.gitlearn;
 
 public class MainActivity {
 
-    public static void main(String[] arge) {
+    public static void main(String[] args) {
 
 
 
